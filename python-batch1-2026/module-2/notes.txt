@@ -1,0 +1,8 @@
+This is a sample note.
+Remember to review the code later.
+Don't forget to check the documentation.
+this is a experiment to check the file handling in python
+this is a experiment to check the file handling in python
+This is the first line.
+This is the second line.
+This is the third line.
