@@ -1,0 +1,9 @@
+{
+    "name": "Yasir ALi",
+    "roll_no": 1,
+    "class": "8th",
+    "address": {
+        "city": "Karachi",
+        "country": "Pakistan"
+    }
+}

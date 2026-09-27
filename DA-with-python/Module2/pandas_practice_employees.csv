@@ -1,0 +1,21 @@
+Employee_ID,Name,Department,Age,Gender,Salary,Joining_Date,City,Performance_Score
+1001,Ali Khan,IT,24,Male,55000,2022-03-15,Karachi,82
+1002,Ahmed Raza,HR,29,Male,72000,2021-07-20,Lahore,76
+1003,Sara Ahmed,Finance,26,Female,68000,2023-01-10,Karachi,91
+1004,Usman Ali,Sales,32,Male,85000,2020-11-05,Islamabad,88
+1005,Ayesha Malik,Marketing,27,Female,62000,2022-08-18,Karachi,79
+1006,Hamza Noor,IT,23,Male,60000,2024-02-12,Lahore,85
+1007,Fatima Khan,Finance,31,Female,78000,2021-05-25,Islamabad,94
+1008,Bilal Ahmed,HR,28,Male,71000,2023-06-14,Karachi,73
+1009,Hina Raza,Sales,25,Female,59000,2022-10-03,Lahore,81
+1010,Omar Farooq,IT,30,Male,90000,2019-09-17,Karachi,90
+1011,Zainab Ali,Marketing,26,Female,65000,2023-03-21,Islamabad,87
+1012,Hassan Khan,Finance,34,Male,82000,2020-04-08,Karachi,92
+1013,Maryam Noor,HR,29,Female,70000,2021-12-01,Lahore,78
+1014,Danish Raza,Sales,27,Male,76000,2022-06-27,Karachi,84
+1015,Sana Malik,IT,24,Male,58000,2024-01-15,Islamabad,89
+1016,Saad Ahmed,Finance,33,Male,88000,2020-08-19,Lahore,95
+1017,Iqra Khan,Marketing,28,Female,69000,2023-09-11,Karachi,80
+1018,Talha Noor,HR,31,Male,74000,2021-10-22,Islamabad,77
+1019,Mehwish Ali,Sales,26,Female,63000,2022-12-05,Lahore,86
+1020,Arslan Raza,IT,35,Male,95000,2019-05-30,Karachi,93
